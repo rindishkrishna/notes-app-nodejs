@@ -1,6 +1,6 @@
 # notes-app
 
- it is a notes app api with authentication made with nodejs + express + mongodb  
+ This is a notes app backend with authentication made using node.js, express and mongodb.  
 
 # run 
 
